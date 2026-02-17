@@ -1,0 +1,1 @@
+# Scara_Mechanic_Palletizing
